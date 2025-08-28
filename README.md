@@ -68,6 +68,11 @@ print(f"Predicted value: {pre}")
 
 <img width="466" height="819" alt="Screenshot 2025-08-28 135231" src="https://github.com/user-attachments/assets/4135f167-5207-43fb-8c12-92cafe145c2a" />
 
+
+
+
+
+
 <img width="455" height="327" alt="Screenshot 2025-08-28 135238" src="https://github.com/user-attachments/assets/e0e2b961-2162-472e-aca9-02d12fd355d9" />
 
 
